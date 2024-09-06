@@ -1,0 +1,20 @@
+1. “Deprem” Temalı Oltalama Kampanyası
+Yemleme,  diğer  bilinen  adlarıyla  phishing,  oltalama, 
+kimlik avı genellikle hacker’ların hedef kişiye hediye, in-
+dirim veya benzeri cezbedici sahte iletiler gönderilerek 
+parola, kimlik bilgisi veyahut benzeri verilerini elde etme-
+ye çalışmasına verilen isimdir [1].
+Depremzedelere yardımda bulunmak isteyen insanların 
+kişisel verilerini ya da bağışlarını toplamayı hedefleyen 
+bu tür saldırılar özellikle hassas ve dikkatsiz olunan bu 
+dönemde büyük tehlike içermektedir.
+Daha çok depremzedelere yardım amaçlı bağış toplayan 
+sitelerin  benzerlerini  yaparak  para  toplamaya  çalışan 
+siber  saldırganların  yanında  depremzedelerin  yardıma 
+ulaşmasını  kolaylaştıran  resmi  sitelere  benzeyen  ara-
+yüzleri kullanarak kimlik avı yapan saldırganlar da söz 
+konusudur.
+Bu saldırılar web sayfalarının yanı sıra sosyal medyada 
+veri çalmak veya bitcoin, IBAN adresleri üzerinden bağış 
+toplamak için faaliyet göstermektedir.
+

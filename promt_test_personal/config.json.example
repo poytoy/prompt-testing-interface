@@ -1,0 +1,31 @@
+{
+  "models": [
+    "core-outline/gemma-2b-instruct",
+    "unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit",
+    "unsloth/Yi-1.5-6B-bnb-4bit"
+  ],
+  "generation_configs": {
+    "core-outline/gemma-2b-instruct": {
+      "max_new_tokens": 1024,
+      "do_sample": true,
+      "temperature": 1.0,
+      "top_p": 0.9,
+      "top_k": 50
+    },
+    "unsloth/Meta-Llama-3.1-8B-Instruct-bnb-4bit": {
+      "max_new_tokens": 512,
+      "do_sample": false,
+      "temperature": 0.7,
+      "top_p": 0.8,
+      "top_k": 40
+    },
+    "unsloth/Yi-1.5-6B-bnb-4bit": {
+      "max_new_tokens": 512,
+      "do_sample": true,
+      "temperature": 0.9,
+      "top_p": 0.85,
+      "top_k": 45
+    }
+  },
+  "hf_token": <"your-huggingface-token">
+}

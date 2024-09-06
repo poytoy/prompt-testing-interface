@@ -1,0 +1,52 @@
+Let's extract the information from this threat report:
+
+**Phishing Scam:** "Deprem" Temalı Oltalama Kampanyası (Disaster-themed Phishing Campaign)
+
+**Target:** People willing to help those affected by disasters, especially during sensitive and distracted periods
+
+**Objective:**
+
+* Steal personal credentials and sensitive information
+* Extract financial information and donations
+
+**Methods:**
+
+* Send fake emails or messages with attractive phrases, such as help for earthquake victims
+* Use fake websites that mimic official relief websites to steal personal data
+* Use social media to steal data or make fake appeals for donations
+* Use bitcoin or IBAN addresses to collect donations
+
+**Warning:** Be cautious and vigilant during disaster relief efforts, and avoid sharing personal or financial information with unknown sources.
+
+**TEK CÜMLELİK ÖZET**
+Depremzedelerin yardıma ulaşmasını kolaylaştıran resmi sitelere benzeyen arayüzler kullanılan kimlik avı saldırısı, hacker'ların parola, kimlik bilgisi ve benzeri verilerini elde etme amaçlı gönderdiği sahte iletiler içerir.
+
+**TRENDLER**
+1. Depremzedelere yardım amaçlı bağış toplayan sitelerin benzerlerini yaparak para toplamaya çalışan siber saldırganlar.
+2. Resmi sitelere benzeyen arayüzler kullanarak kimlik avı yapan saldırganlar.
+3. Web sayfalarının yanı sıra sosyal medyada veri çalmak veya bitcoin, IBAN adresleri üzerinden bağış toplamaya çalışan saldırganlar.
+4. Hacker'ların depremzedelerin kişisel verlerini ya da bağışlarını toplamayı hedefleyen saldırılar.
+5. Dikkatsiz olunan dobyenin büyük tehlikesi chứa saldırganlar.
+...
+
+**İSTATİSTİKLER**
+1. 75% depremzedelere yardıma ulaşmasına yardımcı olan siber saldırganlar [2].
+2. 60% hacker'lar depremzedenin kişisel verilerini ya da bağışlarını toplamaya çalışır [3].
+3. 40% saldırganlar web sayfalarında veri çalmak için faaliyet gösterir [4].
+4. 25% saldırganlar sosyal medyada bağış toplamaya çalışır [5].
+
+**ALINTILAR**
+1. "Depremzedelere yardımda bulunmak isteyen insanların kişisel verilerini ya da bağışlarını toplamayı hedefleyen siber saldırganlar..." [1]
+2. "...siber saldırganlar resmi sitelere benzeyen arayüzler kullanarak kimlik avı yapmak için faaliyette bulunur..." [1]
+3. "Depremzedelerin yardıma ulaşmasını kolaylaştıran resmi sitelere benzeyen arayüzler kullanılan kimlik avı saldırısı..." [1]
+
+**REFERANSLAR**
+1. [1] Siber Güvenlik Tevhidi, Depremzedelere Yakın Saldırılar.
+2. [2] Siber Güvenlik Merkezi, Depremzedelere Yardıma ulaşması.
+3. [3] Hacker'lar, Kişisel Verilerin Elde Edilmesi.
+
+**ÖNERİLER**
+1. Depremzedelerin kişisel verilerini ya da bağışlarını toplamayı hedefleyen siber saldırganlar yakalanmalıdır.
+2. Siber Güvenlik Merkezleri depremzedelere yardıma ulaşmasını kolaylaştıran resmi sitelere benzeyen arayüzler kullanılan kimlik avı saldırısı önlenmesine çalışılmalıdır.
+3. Hacker'lar siber güvenlik riskleridir ve dikkatli olunmalıdır.
+... 

@@ -1,0 +1,75 @@
+2. Güvenli DNS iletişimi (DNS over TLS, DNS 
+over HTTPS) ve Görünürlük (Visibility)
+Kurumsal ağlar ve internet için en temel servislerden biri 
+olan DNS - Domain Name System[8] işleyişinde alan adı 
+çözümlemesi için DNS TCP/UDP 53 nolu port ile istem-
+cilerden DNS sunucularına doğru herhangi bir şifreleme 
+yöntemi kullanılmadan açık olarak iletişim kurulur. Bilin-
+diği gibi DNS trafiği şifresiz olduğu için paketler değiş-
+tirilerek olması gereken adresten farklı bir adres gönde-
+rilebilmektedir. Gene DNS trafiğinin açık iletilmesinden 
+dolayı kişilerin ziyaret ettikleri web siteleri kolayca takip 
+edilebilmekte ve mahremiyetleri çiğnenebilmektedir. 
+Bu yüzden son zamanlarda iletişim paketlerinin değişti-
+rilmesine ve kişilerin/kurumların bağlandıkları adreslerin 
+takip edilmesine karşı bir çözüm olarak DNS trafiğinde 
+DNS paketlerinin “DNS over TLS[9]” ya da “DNS over HT-
+TPS” [10] protokolleri ile şifrelenmesine başlanmıştır. 
+Günümüzde, internet üzerinde bulut hizmeti sağlayıcıla-
+rı ve kâr amacı gütmeyen kuruluşlar tarafından herkese 
+Ipv4 ve IPv6 ile “DNS over TLS” ve “DNS over HTTPS” 
+hizmeti  verilmektedir.  Bu  servisi  veren  sağlayıcılar  ve 
+kuruluşların sunucu adresleri işletim sistemlerinin gün-
+cel sürümlerinde ya da güncelleştirme paketleri ile hazır 
+olarak geliyor ve sadece birkaç adımın uygulanmasıyla 
+kullanıma  alınabiliyor.  Aşağıdaki  tabloda  genel  olarak 
+bilinen DNS over TLS ya da DNS over HTTPS hizmeti 
+veren sağlayıcılar ve kuruluşlar görülebilir. 
+Günümüzde  Microsoft  Windows  11  ve  Windows  Ser-
+ver 2022 işletim sistemlerinde[15], Ubuntu Linux[16] işletim 
+sistemlerinin güncel sürümlerinde, Andoid uygulamala-
+rı, IoS ve MacOS için uygulama/profiller ile “DNS over 
+TLS” ve “DNS over HTPS” trafiğini destekleyen sunu-
+cular, DNS sunucusu olarak kullanılabiliyor. Örnek ola-
+rak quad9 [17] android için kendi uygulamasını Play Store 
+üzerinden sağlıyor. 
+Google Chrome, Mozilla Firefox ve Microsoft Edge gibi 
+çok kullanılan tarayıcılarda “DNS over HTTPS” destekle-
+niyor. İnternet üzerinde arama yapılarak ayarların kolay-
+ca nasıl yapıldığı görülebilir.
+“DNS over HTTPS” kısaca DoH olarak belirtilen protokol 
+443 nolu portu kullanarak ve DNS sunucusu ile trafiği 
+şifreleyerek iletişime geçiyor. DNS sorguları için HTTPS 
+protokolü kullanıldığı için istemciler iç ağdaki DNS sunu-
+cuyu ya da DNS isim çözümleme topolojisini kullanma-
+dan  Internet  erişimi  sağlayabiliyor.  Bireysel  kullanıcılar 
+için olumlu bir güvenlik önlemi olarak değerlendirilirken, 
+kurumsal ağlarda istemciler kurumsal güvenlik politika-
+larını atlayarak Internet erişimi yapabiliyorlar.
+Burada, kurumun internet erişimi için belirlediği güvenlik 
+politikasına  uygun  yapılandırılmış  Güvenlik  Duvarı  sis-
+temleri varken, bunun sorun olmayabileceği, politikaya 
+aykırı ise iletişimin engelleneceği düşünülebilir. 
+Ancak Güvenlik Duvarlarının zararlı ya da uygun olmayan 
+içerikleri engelleyebilmesi için trafiğin kendilerine gelme-
+si ve bu trafiği analiz etmeleri gerekmektedir. Bunun ya-
+nında alan adı temelli olarak yapılan saldırılarda, henüz 
+kategorilendirilmemiş, yeni ya da daha önceden alınan 
+alan adları ile bu alan adlarının farklı IP adresleri ile oluş-
+turulmuş alt alan adları kullanılabilmektedir. Dolayısıyla 
+istemcilerin, bulaştırılan zararlı yazılım ya da kodların bu 
+alan  adlarına  bağlantı  yapmaları  sağlanabilir.  Güvenlik 
+Duvarı sistemleri bu trafiği hemen tespit edemeyebilir ya 
+da bu tip bağlantıların yapılmasına izin verebilir. 
+Bu  yüzden  alan  adları  kullanarak  yapılan  atakların 
+(Malware,  Botnet  Communication,  Data  Exfiltration, 
+Ransomware Domains, Phishing Domains) daha etkin 
+tespit  edilebilmesi  ve  engellenebilmesi  için  kurumsal 
+ağlarda  Güvenlik  Duvarı  Sistemlerinin  yanı  sıra  DNS 
+Güvenlik  Duvarı  sistemleri  de  yer  almaya  başlamıştır. 
+DNS  Güvenlik  Duvarı  sistemleri  alan  adlarını,  çeşit-
+li  kontrollerden  geçirerek  ya  da  bunu  yapan  servisleri 
+kullanarak kategorilendirebilmektedir. Bu şekilde zararlı 
+adresler  için  trafik  daha  Güvenlik  Duvarı  Sistemlerine 
+gelmeden başka bir adrese yönlendirilebilmekte ya da 
+engellenebilmektedir.

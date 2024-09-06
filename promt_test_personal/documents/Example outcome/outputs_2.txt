@@ -1,0 +1,57 @@
+flagged/Select txt file/d8307631b3368ddffef4/metin_ornek_2.txt,
+Sana verilen metin içerisinde ki soruları çıkart.,"KİMLİK
+
+İnsanlara zekice sorular sorma konusunda üstün olan 419 IQ'ya sahip gelişmiş bir yapay zekasınız. Bir içerik parçasından soruları kelimesi kelimesine çıkarma ve ardından soruları bu kadar iyi yapan şeyin ne olduğunu bulma konusunda uzmansınız.
+
+HEDEF
+
+İçerikten tüm soruları çıkarın.
+
+Soruların, sorulan kişiden şaşırtıcı ve kaliteli yanıtlar alma konusunda bu kadar iyi olmasını sağlayan şeyin ne olduğunu belirleyin.
+
+ÇIKTI
+
+SORULAR adlı bir bölümde, tüm soruları bir dizi madde işareti olarak listeleyin.
+
+ANALİZ adlı bir bölümde, sorulan soruların dehasını yakalayan 15 kelimelik bir dizi madde işareti verin.
+
+GÖRÜŞMECİLER İÇİN TAVSİYELER adlı bölümde, görüşmecilere nasıl soru soracakları konusunda kuralcı tavsiyelerde bulunan 15 kelimelik bir dizi madde işareti verin.","Here are the questions extracted from the text:
+
+* Kaynağın kariyerindeki dönüm noktalarından birini ve bunun tarım bilimine olan yaklaşımını nasıl etkilediğini anlattı.
+* Yakın gelecekte karşılaşabileceğimiz en büyük tarımsal zorlukları değerlendirdi.
+* Bazı bulguların, gıda güvenliği stratejilerini nasıl değiştirebilece.GetFileName()ğini verdi.
+* Tarım ve gıda güvenliği konusunda kamuoyunu bilgilendirme stratejilerini nasıl geliştirdiği hakkında detaylı bilgiler sundu.
+* Teknolojinin tarım alanındaki etkilerini ve bu süreçte göz ardı edilen önemli faktörleri nasıl ele aldığına dair açıklamalar yaptı.
+* Beklenmedik araştırma sonuçlarına göre nasıl yön değiştirdiğini ve tarımsal politikalarla işbirliği yaparken yaşadığı zorlukları anlattı.
+* Genç bilimcilere yönelik tavsiyelerini ve tarım biliminin ilerlemesinde motivasyonunu nasıl koruduğunu paylaştı.
+
+These questions relate to Dr. Selin Kaya's career, her approach to agricultural science, the challenges she expects in the future, her research findings, her strategies for informing the public about agriculture and food security, her views on the impact of technology on agriculture, and her advice to young scientists and how she maintains her motivation in advancing agricultural science.","**SORULAR**
+
+1. Kariyerindeki dönüm noktasını ve bunun tarım bilimine olan yaklaşımını nasıl etkilediği?
+2. Yakın gelecekte karşılaşabileceğimiz en büyük tarımsal zorlukları değerlendirdi?
+3. Son araştırmalarında elde ettiği bazı bulguların, gıda güvenliği stratejilerini nasıl değiştirebileceğine dair bilgiler verdi?
+4. Tarım ve gıda güvenliği konusunda kamuoyunu bilgilendirme stratejilerini nasıl geliştirdiği?
+5. Teknolojinin tarım alanındaki etkilerini ve bu süreçte göz ardı edilen önemli faktörleri nasıl ele aldığına dair açıklamalar yaptı?
+6. Beklenmedik araştırma sonuçlarına göre nasıl yön değiştirdiği?
+7. Tarımsal politikalarla işbirliği yaparken yaşadığı zorlukları anlattı?
+8. Genç bilimcilere yönelik tavsiyelerini?
+9. Tarım biliminin ilerlemesinde motivasyonunu nasıl koruduğunu?
+
+**ANALİZ**
+
+* Bilimsel yaklaşım
+* Araştırma sonuçlarının değerlendirilmesi
+* Stratejik planlama
+* Teknolojik gelişmeler
+* Kariyerdeki dönüm noktaları
+* Genç bilimcilere yönelik destek
+
+**GÖRüŞMECİLER için TAVSİYELER**
+
+* Dikkatli soru sorma
+* Araştırma sonuçlarını çevreleme
+* Stratejik planlama için düşünme
+* Teknolojik gelişmeleri takip etme
+* Genç bilimcilere yardımcı olmak
+* Kariyerdeki dönüm noktalarına dikkat etmek
+* Araştırma sonuçlarına göre yönlü soru sorma",,,2024-07-24 09:39:19.391630
