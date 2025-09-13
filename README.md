@@ -2,7 +2,7 @@
 
 Welcome to Prompt Engineering Test for Low Parameter LLMs. created by Poyraz Güler.
 
-Here we have to main codes separate from each other. For users who have access to powerful hardware that could run 4bit 8Billion param models we recommend run-server-gpu.py For users who don't wish to run the models locally we recommend run-api.py which uses GROQ api to run llama8B. Notice that run-api only tests prompts on 1 model and does not have a way to add your own model.
+Here we have two main codes separate from each other. For users who have access to powerful hardware that could run 4bit 8Billion param models we recommend run-server-gpu.py For users who don't wish to run the models locally we recommend run-api.py which uses GROQ api to run llama8B. Notice that run-api only tests prompts on 1 model and does not have a way to add your own model.
 
 Detailed info on our test results and how to use it yourself can be reached through  the readme.md file inside the project.
 
